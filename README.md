@@ -7,7 +7,7 @@ vscode에서 Brewfile파일 Open 후 터미널에 brew bundle -v 명령어실행
 cask, gh, mas
 
 ### cask 종류
-  cask "aldente"
+    cask "aldente"
   cask "anaconda"
   cask "android-studio"
   cask "arc"
