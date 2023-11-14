@@ -20,6 +20,7 @@ cask "monitorcontrol"
 cask "mos"
 cask "stats"
 cask "visual-studio-code"
+cask "fliqlo"
 
 vscode "eamodio.gitlens"
 vscode "ecmel.vscode-html-css"
