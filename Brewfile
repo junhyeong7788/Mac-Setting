@@ -3,8 +3,8 @@ brew "cask"
 brew "cocoapods"
 brew "gh"
 brew "mas"
+brew "python@3.11"
 brew "rbenv"
-
 cask "aldente"
 cask "anaconda"
 cask "android-studio"
@@ -14,6 +14,7 @@ cask "boom-3d"
 cask "cheatsheet"
 cask "chromedriver"
 cask "coconutbattery"
+cask "fig"
 cask "fliqlo"
 cask "flutter"
 cask "google-chrome"
@@ -29,7 +30,6 @@ cask "notion"
 cask "obsidian"
 cask "stats"
 cask "visual-studio-code"
-
 mas "Boom 3D Netflix Extension", id: 6445882848
 mas "Endel", id: 1346247457
 mas "Goodnotes", id: 1444383602
@@ -41,10 +41,9 @@ mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
 mas "MindNode", id: 1289197285
 mas "Speedtest", id: 1153157709
-mas "Tot", id: 1491071483
 mas "Xcode", id: 497799835
 mas "카카오톡", id: 869223134
-
+vscode "alefragnani.project-manager"
 vscode "atomiks.moonlight"
 vscode "Dart-Code.dart-code"
 vscode "Dart-Code.flutter"
@@ -70,4 +69,5 @@ vscode "ms-vscode.cpptools-themes"
 vscode "PKief.material-icon-theme"
 vscode "ritwickdey.LiveServer"
 vscode "sculove.translator"
+vscode "withfig.fig"
 vscode "zhuangtongfa.material-theme"
